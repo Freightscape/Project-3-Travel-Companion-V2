@@ -1,5 +1,6 @@
 # TRAVEL COMPANION
-![Screen Shot 2022-07-03 at 1 20 25 AM](https://user-images.githubusercontent.com/105219025/177032777-5846391f-795e-45b7-97a1-da7e6d807c68.png)
+![Screen Shot 2022-07-10 at 11 27 46 PM](https://user-images.githubusercontent.com/105219025/178183184-60d46e12-224d-4a98-be2b-4d852781cbef.png)
+
 
 This Application is a provider of hotel accommodation worldwide, offering booking services through its own network of localised websites.
 
