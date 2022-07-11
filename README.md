@@ -10,10 +10,6 @@ This Application is a provider of hotel accommodation worldwide, offering bookin
 ![Screen Shot 2022-07-10 at 11 58 49 PM](https://user-images.githubusercontent.com/105219025/178186064-4fb6e6c4-f5a8-41e1-b4f6-05c93652c244.png)
 
 
-
-![Screen Shot 2022-07-03 at 4 52 40 AM](https://user-images.githubusercontent.com/105219025/177032521-1b8ec1cb-dde9-47d4-adea-87849c00dda0.png)
-![Screen Shot 2022-07-03 at 4 25 32 AM](https://user-images.githubusercontent.com/105219025/177031620-4a29f7ad-2dc4-45b0-875f-50b2c88e8b22.png)
-
 ## Search Page
 ![Screen Shot 2022-07-03 at 1 20 50 AM](https://user-images.githubusercontent.com/105219025/177026150-a1c21cac-0b0a-42a4-83fd-44dad8cb683d.png)
 
