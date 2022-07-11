@@ -11,11 +11,13 @@ This Application is a provider of hotel accommodation worldwide, offering bookin
 
 
 ## Search Page
-![Screen Shot 2022-07-03 at 1 20 50 AM](https://user-images.githubusercontent.com/105219025/177026150-a1c21cac-0b0a-42a4-83fd-44dad8cb683d.png)
+![Screen Shot 2022-07-11 at 12 10 57 AM](https://user-images.githubusercontent.com/105219025/178187057-8569a579-ef31-4a03-be92-81181c8a979b.png)
+
 
 
 ## Purchase Form
-![Screen Shot 2022-07-03 at 1 19 12 AM](https://user-images.githubusercontent.com/105219025/177026148-b66ea6d5-5d23-4032-9a91-b973d20dacd1.png)
+![Screen Shot 2022-07-11 at 12 07 09 AM](https://user-images.githubusercontent.com/105219025/178186901-abe15722-bbe4-4501-821e-9e8470086d85.png)
+
 
 
 
